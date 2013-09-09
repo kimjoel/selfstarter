@@ -1,7 +1,24 @@
-.big_wrapper {
-  border-bottom: 1px solid #d2d2d2;
-  background: #fff;
+.big_wrapper_1 {
+  background: #87CEF8;
+  padding: 50px;
 }
+
+.big_wrapper_2 {
+  background: #fff;
+  padding: 50px;
+}
+
+.big_wrapper_3 {
+  background: #87CEF8;
+  padding: 50px;
+}
+
+.big_wrapper_4 {
+  background: #fff;
+  padding: 50px;
+}
+
+
 .big_wrapper .wrapper {
   padding: 35px 0;
 }
@@ -9,7 +26,7 @@
 .point_copy {
   width: 440px;
   h3 {
-    margin: 20px 0 30px 0;
+    margin: 30px 0 30px 0;
   }
 }
 
@@ -25,24 +42,20 @@ h3 {
 }
 
 #one {
-  background: url(image_path("1-background.png")) no-repeat bottom left;
-  height: 320px;
+  height: 520px;
   width: 936px;
 }
 
 #two {
-  background: url(image_path("2-background.png")) no-repeat bottom left;
-  height: 320px;
+  height: 520px;
 }
 
 #three {
-  background: url(image_path("3-background.png")) no-repeat bottom left;
-  height: 320px;
+  height: 520px;
 }
 
 #four {
-  background: url(image_path("4-background.png")) no-repeat bottom left;
-  height: 320px;
+  height: 520px;
 }
 
 .right {

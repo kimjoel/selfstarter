@@ -49,7 +49,7 @@ body, input, textarea
   font-size: $font_size;
   font-family: $primary_font, $secondary_font, $tertiary_font;
   color: $text_color;
-  text-shadow: $text_shadow;
+  text-shadow: none;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -184,6 +184,10 @@ body.lt-ie9 {
   .blue_button:hover {
     background-color: #add8e6 !important;
   }
+}
+
+.font_white {
+  color: #FFFFFF;
 }
 
 .blue_button {
